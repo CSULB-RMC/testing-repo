@@ -12,3 +12,5 @@ print("This is just meant to be a tiny program to show off what a repo looks lik
 inp = input("Type something here: ")
 
 print("You typed:", inp)
+
+print("Ok this is another test.")
