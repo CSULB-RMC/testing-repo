@@ -14,5 +14,3 @@ inp = input("Type something here: ")
 print("You typed:", inp)
 
 print("Ok this is another test.")
-
-print("This is a change from the testing branch.")
